@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
-language:
-timezone:
+title: Rorschach
+subtitle: a dreamer, a traveler, a programmer
+description: Stay hungry, stay foolish
+keywords: C/C++ python Security Django
+author: Rorschach
+language: Manderine, English, Spanish(Emmmm..)
+timezone: America/Los_Angeles
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -73,11 +73,11 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/JimZyq/jimzyq.github.io.git
+  repo: https://jimzyq@github.com/JimZyq/jimzyq.github.io.git
   branch: master
